@@ -69,11 +69,3 @@ A portfolio of data analysis projects focused on exploring datasets, extracting 
 
 🔗 [View Portfolio](https://github.com/Wiltnt/data-analytics-portfolio)
 
-### RentACar
-
-**C# · .NET · Software Development**
-
-A software development project focused on building a car rental management solution using C# and .NET.
-
-🔗 [View Project](https://github.com/Wiltnt/RentACar)
-
