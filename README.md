@@ -46,3 +46,34 @@ I'm passionate about continuous learning, problem-solving, and building projects
 * Visual Studio
 * VS Code
 * SQL Server Management Studio (SSMS)
+
+---
+
+## Featured Projects
+
+Here are some of the projects I've built and developed to strengthen my skills in **software engineering, data analytics, and data-driven solutions**.
+
+### Sales Forecasting
+
+**Python · Pandas · NumPy · Data Analysis**
+
+A data analytics project focused on analyzing historical sales data, identifying trends, and developing a sales forecasting workflow using Python.
+
+🔗 [View Project](https://github.com/Wiltnt/sales-forecasting)
+
+### Data Analytics Portfolio
+
+**Python · Pandas · NumPy · Data Visualization**
+
+A portfolio of data analysis projects focused on exploring datasets, extracting insights, and communicating results through data visualization.
+
+🔗 [View Portfolio](https://github.com/Wiltnt/data-analytics-portfolio)
+
+### RentACar
+
+**C# · .NET · Software Development**
+
+A software development project focused on building a car rental management solution using C# and .NET.
+
+🔗 [View Project](https://github.com/Wiltnt/RentACar)
+
