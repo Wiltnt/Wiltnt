@@ -1,4 +1,4 @@
-# Hi, I'm Wilver 👋
+# Hi, I'm Wilver 
 
 ### Software Engineer | Data Analyst | Python | SQL | Power BI | Cloud
 
@@ -9,3 +9,40 @@ I enjoy transforming data into actionable insights and building software solutio
 I'm passionate about continuous learning, problem-solving, and building projects that combine **software engineering, data, and technology**.
 
 ---
+## Technical Skills
+
+### Programming
+
+* Python
+* C#
+* JavaScript
+
+### Data & Analytics
+
+* SQL Server
+* PostgreSQL
+* Pandas
+* NumPy
+* Power BI
+* DAX
+* Excel
+
+### Backend & Software Development
+
+* .NET
+* ASP.NET Core
+* Entity Framework Core
+* REST APIs
+
+### Cloud & DevOps
+
+* AWS
+* Git
+* GitHub
+* Linux
+
+### Tools
+
+* Visual Studio
+* VS Code
+* SQL Server Management Studio (SSMS)
